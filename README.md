@@ -1,100 +1,59 @@
 # 👨🏻‍💻 Marcos Silva
 
-*Desenvolvedor full-stack junior | Criador da Lyra AI*
+### Desenvolvedor Full-Stack Júnior | Sistemas Imobiliários | IA & Automação
 
-Me chamo Marcos Silva, tenho 16 anos e sou de Maringá - Paraná. Sou desenvolvedor em formação, focado na criação de sistemas web, APIs, automações e soluções com inteligência artificial.
-
-Atualmente estou desenvolvendo a *Lyra AI*, uma assistente inteligente com backend em Python, arquitetura modular, integração com APIs e deploy em servidor próprio. Também atuo com projetos para o setor imobiliário, criando sistemas internos, dashboards e ferramentas para otimizar processos reais.
-
-Sou apaixonado por tecnologia, produto e infraestrutura. Gosto de transformar ideias em sistemas funcionais.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="FastAPI" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="left">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Sobre mim
 
-- *Lyra AI* — assistente inteligente com backend em Python, FastAPI, agentes e deploy em servidor próprio.
-- *Airbnb Reports* — sistema para geração de relatórios imobiliários/Airbnb com Java, Spring Boot e frontend web.
-- *Aurion System* — marca/projeto voltado à criação de sistemas, automações e soluções digitais.
+Me chamo **Marcos Silva**, tenho 16 anos e sou de **Maringá - Paraná**.
+
+Sou desenvolvedor em formação, com foco na criação de **sistemas web, APIs, plataformas internas, automações e soluções utilizando Inteligência Artificial**.
+
+Minha principal área de atuação atualmente é o desenvolvimento de **sistemas para o mercado imobiliário**, criando soluções para problemas reais de operação, gestão e produtividade.
+
+Trabalho principalmente com aplicações que envolvem:
+
+- 🏢 Gestão imobiliária
+- 🏠 Locação por temporada e Airbnb
+- 📊 Dashboards e indicadores
+- 📅 Gestão de tarefas e operações
+- 🔧 Gestão de manutenções
+- 👥 CRM e gestão de clientes
+- 📑 Relatórios e processamento de dados
+- 🤖 Inteligência Artificial
+- ⚙️ Automações e integrações
+- 🔌 APIs e sistemas internos
+
+Gosto de entender um problema real, transformar esse problema em uma solução técnica e construir o sistema do início ao deploy.
 
 ---
 
+## 🏢 Desenvolvimento de Sistemas Imobiliários
+
+Uma das minhas principais áreas de interesse é a **tecnologia aplicada ao mercado imobiliário**.
+
+Já desenvolvi e trabalho em soluções voltadas para operações imobiliárias, locação por temporada e gestão de imóveis.
+
+Meu objetivo é utilizar tecnologia para transformar processos manuais em **sistemas mais organizados, automatizados e mensuráveis**.
+
+Entre os problemas que busco solucionar estão:
+
+```text
+Processos manuais
+       ↓
+Sistemas
+       ↓
+Automação
+       ↓
+Dados
+       ↓
+Indicadores
+       ↓
+Decisões melhores
